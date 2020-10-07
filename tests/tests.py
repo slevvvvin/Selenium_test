@@ -1,6 +1,3 @@
-"""Test case for checking if a number of age input
-menus is equal to a number of children guests."""
-
 import unittest
 from selenium import webdriver
 from pages import home_page as hp
