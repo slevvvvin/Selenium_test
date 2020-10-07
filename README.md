@@ -1,4 +1,4 @@
-# PREREQUISTES (INSTALLATIONS)
+# PREREQUISITES (INSTALLATIONS)
 SELENIUM
 
 CHROMEDRIVER
@@ -25,6 +25,7 @@ OR
 Open terminal and run the command below
 
 $ sudo nano /etc/paths
+
 Enter your password,
 add your path to the bottom of the file
 
