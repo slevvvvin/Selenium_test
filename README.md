@@ -1,10 +1,10 @@
-### PREREQUISTES (INSTALLATIONS)
-# SELENIUM
-# CHROMEDRIVER
+# PREREQUISTES (INSTALLATIONS)
+SELENIUM
+CHROMEDRIVER
 
-### USING THE SCRIPT
-# RUNNING LOCALLY
-# WHAT YOU WILL SEE
+# USING THE SCRIPT
+RUNNING LOCALLY
+WHAT YOU WILL SEE
 
 ### Install SELENIUM
 Selenium is an open source automation tool that uses PYTHON API's to connect to browsers and send commands.
@@ -13,7 +13,7 @@ Selenium is an open source automation tool that uses PYTHON API's to connect to 
 $ pip3 install selenium
 
 ### Install CHROMEDRIVER and set executable in system path
-You can use IE, Firefox, etc webdrivers but I prefer Chrome.
+You can use IE, Firefox, etc webdrivers 
 
 # Download the CHROMEDRIVER that is compatible with your version of Chrome at the link below
 https://chromedriver.chromium.org/downloads
